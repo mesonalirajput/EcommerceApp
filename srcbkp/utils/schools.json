@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Maxwell",
+    "schoolId": 1
+  },
+  {
+    "name": "Whitman",
+    "schoolId": 2
+  },
+  {
+    "name": "Art & Science",
+    "schoolId": 3
+  },
+  {
+    "name": "VPA",
+    "schoolId": 4
+  },
+  {
+    "name": "School Of Architecture",
+    "schoolId": 5
+  },
+  {
+    "name": "i-School",
+    "schoolId": 6
+  },
+  {
+    "name": "Falk",
+    "schoolId": 7
+  },
+  {
+    "name": "School Of Education",
+    "schoolId": 8
+  },
+  {
+    "name": "Newhouse",
+    "schoolId": 9
+  },
+  {
+    "name": "College Of Engineering & Computer Scinece",
+    "schoolId": 10
+  }
+]
